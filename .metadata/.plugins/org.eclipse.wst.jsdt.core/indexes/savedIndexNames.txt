@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\jee-2019-09 workspace\MavenPomWarEARPorject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+212499188.index
+2962639643.index
+116236016.index
+1028164599.index
+2500508392.index
+2160575529.index
